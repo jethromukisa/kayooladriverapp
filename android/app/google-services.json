@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798232451044",
+    "project_id": "battery-dbe43",
+    "storage_bucket": "battery-dbe43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798232451044:android:861243d8395ec0e36d19f1",
+        "android_client_info": {
+          "package_name": "com.example.batteryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798232451044-r70idtemgmmfe6hg2dm25n6turqcjlcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6KquHZxy3c9hPIyqdpGYW3dvdk23VuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798232451044-r70idtemgmmfe6hg2dm25n6turqcjlcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
